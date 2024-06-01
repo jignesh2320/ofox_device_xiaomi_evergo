@@ -1,3 +1,4 @@
+# Obsolete.
 # TWRP Tree for Poco M4 Pro 5G
 * Brand : Xiaomi
 * SoC Vendor : Mediatek
